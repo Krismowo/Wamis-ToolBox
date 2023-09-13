@@ -23,6 +23,6 @@
 
 # Ignore the minecraft/btw source code
 src/btw/**
-#run/**
-#reofuscated/**
-#release/**
+run/**
+reofuscated/**
+release/**
