@@ -22,5 +22,7 @@
 .idea/jarRepositories.xml
 
 # Ignore the minecraft/btw source code
-./src/btw/**
-./src/btw/**
+src/btw/**
+#run/**
+#reofuscated/**
+#release/**
