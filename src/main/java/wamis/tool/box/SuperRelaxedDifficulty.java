@@ -28,7 +28,7 @@ public class SuperRelaxedDifficulty extends Difficulty implements DifficultyInte
 	
 	@Override
 	public float getNoToolBlockHardnessMultiplier() {
-		return 1.75F;
+		return 0.25F;
 	}
 	
 	//------ Animal Behaviors ------//
